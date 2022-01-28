@@ -1,0 +1,20 @@
+@import "null.css";
+
+h1, h2{
+   color: #202979;
+}
+.about-name span{
+   color: #075e59;
+}
+.about .about-career{
+   color: rgb(82, 86, 185);
+}
+.first-attachment +p {
+   color: rgb(151, 103, 0);
+}
+div mark{
+   color: rgb(43, 120, 221);
+}
+#wiki{
+   color: rgb(47, 82, 110);
+}
